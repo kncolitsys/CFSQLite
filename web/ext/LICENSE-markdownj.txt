@@ -1,0 +1,2 @@
+Web site says a "BSD license" applies, but it was not included in source or
+binary for the library. See http://markdownj.org/ .
